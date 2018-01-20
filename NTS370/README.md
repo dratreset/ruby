@@ -1,1 +1,2 @@
-Scripts made for a class.
+# NTS370 scripts
+Scripts created for assignments in a class.
